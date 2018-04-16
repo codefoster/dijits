@@ -1,0 +1,8 @@
+C:\code\codefoster\dijits\csharp\bin\Debug\netcoreapp2.0\dijits.deps.json
+C:\code\codefoster\dijits\csharp\bin\Debug\netcoreapp2.0\dijits.runtimeconfig.json
+C:\code\codefoster\dijits\csharp\bin\Debug\netcoreapp2.0\dijits.runtimeconfig.dev.json
+C:\code\codefoster\dijits\csharp\bin\Debug\netcoreapp2.0\dijits.dll
+C:\code\codefoster\dijits\csharp\obj\Debug\netcoreapp2.0\dijits.csproj.CoreCompileInputs.cache
+C:\code\codefoster\dijits\csharp\obj\Debug\netcoreapp2.0\dijits.AssemblyInfoInputs.cache
+C:\code\codefoster\dijits\csharp\obj\Debug\netcoreapp2.0\dijits.AssemblyInfo.cs
+C:\code\codefoster\dijits\csharp\obj\Debug\netcoreapp2.0\dijits.csprojResolveAssemblyReference.cache
