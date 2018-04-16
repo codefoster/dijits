@@ -1,12 +1,10 @@
 {
-  "name": "dijits",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "botbuilder": "^4.0.0-m3.0",
+    "botbuilder-dialogs": "^4.0.0-m3.0",
+    "restify": "^7.1.1"
   },
-  "keywords": [],
-  "author": "Jeremy Foster <jeremy.foster@live.com> (http://codefoster.com)",
-  "license": "Apache 2.0"
+  "devDependencies": {
+    "@types/restify": "^5.0.7"
+  }
 }
